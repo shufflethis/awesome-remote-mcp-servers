@@ -1774,6 +1774,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [turva.dev](https://turva.dev) `https://mcp.turva.dev/mcp`
   [![turva.dev MCP connector](https://glama.ai/mcp/connectors/dev.turva/turva-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.turva/turva-mcp)
   🔓 - Read the turva.dev service catalog, pricing, agent-readiness score, and published security scan results.
+- [Vibe Manufacturing](https://vibe-manufacturing.com/agents) `https://vibe-manufacturing.com/api/mcp`
+  [![Vibe Manufacturing MCP connector](https://glama.ai/mcp/connectors/com.vibe-manufacturing/manufacturer-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibe-manufacturing/manufacturer-finder)
+  🔓 - Find manufacturers worldwide, match a part spec to suppliers, estimate cost and send quote requests.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
 
